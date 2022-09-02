@@ -4,6 +4,6 @@ My side project where I develop a web application for structural analysis. How t
 
 I have developed it using only React.
 
-Play with it here:
+Play with it heree:
 
 https://ozgunnn.github.io/
